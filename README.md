@@ -3,7 +3,7 @@ An educational Python program that demonstrates how different sorting algorithms
 
 # Features:
 
-Implements Bubble Sort sorting algorithm.
+Implements the Bubble Sort algorithm
 
 Visualizes each step of the sorting process.
 
