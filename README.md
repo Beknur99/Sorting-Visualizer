@@ -9,12 +9,12 @@ Visualizes each step of the sorting process.
 
 Educational tool for understanding algorithm behavior.
 
-Technologies:
+# Technologies:
 
 Python
 
 matplotlib (for visualization)
 
-Purpose:
+# Purpose:
 
 Shows familiarity with data structures and algorithms, as well as practical usage of Python visualization libraries.
